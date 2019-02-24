@@ -25,3 +25,12 @@ Six banks of the RAM card can be selected via a slider switch that was mounted i
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/ram2.jpg" width="1088" height="613" />
 
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/ram3.jpg" width="1088" height="613" />
+
+#### To load each bank with its own set of patches put the slider switch in poistion 1 the using MidiOX:
+
+* Load file for example Vzcard10.syx will have D3=Anna Strings
+* Make sure both internal and card memory protect is off. sys exc = ENA
+* Then use LOAD, MIDI, Press execute and then in MidiOX pres  send/receive sysex
+* NB: THE SOUND Vzcard10.syx IS NOW LOADED IN THE INTERNAL MEMORY - MUST NOW COPY IT TO THE CARD!!!!
+* DO that by pressing SAVE, CARD, Press execute
+* Test by pressing Card button and chcek if D3 = Ana Strings
