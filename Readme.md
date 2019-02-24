@@ -1,5 +1,7 @@
 # Editor for the Casio VZ10m synth circa 1990
 
+<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/casiovz10m.jpg" width="1200" height="441" />
+
 ```
 MIDI.PAS: Use the UNITS : MIDI1.PAS and MIDI3.PAS 
  
