@@ -14,3 +14,13 @@ Links:
 https://groups.yahoo.com/neo/groups/CZsynth/info
 
 http://www.synthzone.com/casio.htm     
+
+### Upgrading with Internal RAM Card:
+An Alliance Memory AS6C4008 55PCN SRAM Memory 4Mbit Static RAM chip was added to the Casio VZ10m as shown below.
+Six banks of the RAM card can be slected via a slider switch that was mounted in the previos RAM slot on the front panel.
+
+<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/ram1.jpg" width="1088" height="613" />
+
+<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/ram2.jpg" width="1088" height="613" />
+
+<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/ram3.jpg" width="1088" height="613" />
