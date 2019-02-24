@@ -33,4 +33,6 @@ Six banks of the RAM card can be selected via a slider switch that was mounted i
 * Then use LOAD, MIDI, Press execute and then in MidiOX pres  send/receive sysex
 * NB: THE SOUND Vzcard10.syx IS NOW LOADED IN THE INTERNAL MEMORY - MUST NOW COPY IT TO THE CARD!!!!
 * DO that by pressing SAVE, CARD, Press execute
-* Test by pressing Card button and chcek if D3 = Ana Strings
+* Test by pressing Card button and check if D3 = Ana Strings
+
+Now swich the slider to its next position and repaet 5 more times...
