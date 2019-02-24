@@ -1,4 +1,4 @@
-# Editor for the Casio VZ10m synth circa 1990
+# Editor for the Casio VZ10m synth and RAM Card Replacement
 
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/casiovz10m.jpg" width="600" height="221" />
 
