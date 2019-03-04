@@ -18,7 +18,7 @@ http://www.synthzone.com/casio.htm
 ### Upgrading with an internal 4MB RAM Card:
 An Alliance Memory AS6C4008 55PCN SRAM Memory 4Mbit Static RAM chip was added to the Casio VZ10m as shown below. The process is also documented in AS6C4008-SRAM-Install.pdf.
 
-Six banks of the RAM card can be selected via a slide switch that was mounted in the previous RAM slot on the front panel:
+Five banks of the RAM card can be selected via a slide switch that was mounted in the previous RAM slot on the front panel:
 
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/slideswitch.png" width="288" height="228" />
 
@@ -45,4 +45,4 @@ The RAM Card schematic:
 * DO that by pressing SAVE, CARD, Press execute
 * Test by pressing Card button and check if D3 = Ana Strings
 
-Now switch the slider to its next position and repeat 5 more times...
+Now switch the slide switch to its next position and repeat 4 more times...
