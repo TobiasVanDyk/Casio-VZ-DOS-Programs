@@ -20,7 +20,7 @@ An Alliance Memory AS6C4008 55PCN SRAM Memory 4Mbit Static RAM chip was added to
 
 Six banks of the RAM card can be selected via a slide switch that was mounted in the previous RAM slot on the front panel:
 
-<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/slideswitch.jpg" width="288" height="228" />
+<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/slideswitch.png" width="288" height="228" />
 
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/ram1.jpg" width="1088" height="613" />
 
