@@ -36,7 +36,7 @@ The RAM Card schematic:
 
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/CasioRA500 RAMcard.jpg" width="751" height="576" />
 
-#### To load each bank with its own set of patches put the slider switch in poistion 1 and then by using MidiOX:
+#### To load each bank with its own set of patches put the slider switch in position 1 and then by using MidiOX:
 
 * Load file for example Vzcard10.syx will have D3=Anna Strings
 * Make sure both internal and card memory protect is off. sys exc = ENA
