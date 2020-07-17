@@ -1,6 +1,7 @@
-# Editor for the Casio VZ10m synth and RAM Card Replacement
+# Editor for the Casio VZ-10M synth and RAM Card Replacement
 
-Casio VZ10m Patch Librarian, Voice Editor, and MIDI Analyzer.
+1996: Software for Casio VZ-10M using iPD (Interactive Phase Distortion) Synthesizer, Patch Librarian, Voice Editor, MIDI Analyzer and PC Midi Dump Storage Controller. 
+2015: Hardware RAM Card SRAM Replacement.
 
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/casiovz10m.jpg" width="600" height="221" />
 
