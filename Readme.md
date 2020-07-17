@@ -1,5 +1,7 @@
 # Editor for the Casio VZ10m synth and RAM Card Replacement
 
+Casio VZ10m Patch Librarian, Voice Editor, and MIDI Analyzer.
+
 <img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/casiovz10m.jpg" width="600" height="221" />
 
 ```
