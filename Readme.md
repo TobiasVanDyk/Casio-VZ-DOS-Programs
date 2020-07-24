@@ -42,7 +42,7 @@ The RAM Card schematic:
 
 Or an alternative RAM Card schematic:
 
-<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/RA-500ramcard.jpg" width="800" />
+<img src="https://github.com/TobiasVanDyk/Casio-VZ-DOS-Programs/blob/master/RA-500ramcard.jpg" width="980" />
 
 #### To load each bank with its own set of patches put the slider switch in position 1 and then by using MidiOX:
 
